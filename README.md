@@ -2,7 +2,7 @@
 <h3 align="center">Biotechnology Engineer · Clinical AI & Bioinformatics</h3>
 
 <p align="center">
-  Biotechnology Engineering Graduate · Master's in Biotechnology and Health (AI/Clinical track) at <b>ENSB, Algeria</b>.<br>
+  Biotechnology Engineering Graduate · Master's in Biotechnology and Health  at <b>ENSB, Algeria</b>.<br>
   I build AI systems at the intersection of clinical data, signal processing, and bioinformatics.
 </p>
 
