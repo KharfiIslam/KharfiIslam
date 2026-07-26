@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kharfi-islam-052b94315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/youslam"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
-  <a href="https://www.neuropredai.com"><img src="https://img.shields.io/badge/NEUROPRED-website-2ea44f?style=flat"></a>
+  <a href="https://www.neuropredai.com"><img src="https://img.shields.io/badge/NEUROPREDAI-website-2ea44f?style=flat"></a>
 </p>
 
 ---
