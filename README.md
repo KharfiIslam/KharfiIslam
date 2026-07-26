@@ -2,7 +2,7 @@
 <h3 align="center">Biotechnology Engineer · Clinical AI & Bioinformatics</h3>
 
 <p align="center">
-  Final-year Master's student in Biotechnology (AI/Clinical track) at <b>ENSB, Algeria</b>.<br>
+  Biotechnology Engineering Graduate · Master's in Biotechnology and Health (AI/Clinical track) at <b>ENSB, Algeria</b>.<br>
   I build AI systems at the intersection of clinical data, signal processing, and bioinformatics.
 </p>
 
@@ -34,7 +34,7 @@
 
 ### 🛠️ Tech I use
 
-`Python` `Streamlit` `Gradio` `FastAPI` `Next.js` `PyTorch` `OpenCV` `scipy` `CatBoost` `DESeq2/limma` `Docker` `Supabase` `Hugging Face` `Ollama`
+`Python` `Streamlit` `Gradio` `FastAPI` `Next.js` `PyTorch` `OpenCV` `scipy` `ML`  `Docker` `Supabase` `Hugging Face` `Ollama` `DL`
 
 ### 📫 Reach me
 
